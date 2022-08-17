@@ -5,7 +5,7 @@
 
 import pandas as pd
 
-url = 'https://raw.githubusercontent.com/amitrangwal/Datasets_for_practice/main/titanic.csv'
+url = 'https://raw.githubusercontent.com/distinctiveanalyticsrep/distinctive_datasets/main/titanic.csv'
 
 r = requests.get(url, allow_redirects=True)
 
