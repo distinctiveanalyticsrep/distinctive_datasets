@@ -1,0 +1,55 @@
+Python is a high-level, general-purpose programming language.
+
+Its design philosophy emphasizes code readability with the use of significant indentation.
+
+python features is dynamically-typed and garbage-collected.
+
+It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming.
+
+It is often described as a "batteries included" language due to its comprehensive standard library.
+
+Python creator is Guido van Rossum began working on Python in the late 1980s as a successor to the ABC programming language and first released it in 1991 as Python 0.9.0.
+
+Python 2.0 was released in 2000 and introduced new features such as list comprehensions, cycle-detecting garbage collection, reference counting, and Unicode support. 
+
+Python 3.0, released in 2008, was a major revision that is not completely backward-compatible with earlier versions. 
+
+Python 2 was discontinued with version 2.7.18 in 2020.
+
+python's fame comes from it being easy to read and having a vast set of libraries reguarding scientific calculations.
+
+pandas is a software library written for the Python programming language for data manipulation and analysis.
+
+
+pandas features it offers data structures and operations for manipulating numerical tables and time series.
+
+
+pandas usage is free since it is released under the three-clause BSD license.
+
+pandas name is derived from the term "panel data", an econometrics term for data sets that include observations over multiple time periods for the same individuals.
+
+Its name is a play on the phrase "Python data analysis" itself.
+
+pandas creator is Wes McKinney started building what would become pandas at AQR Capital while he was a researcher there from 2007 to 2010.
+
+NumPy (pronounced /ˈnʌmpaɪ/ (NUM-py) or sometimes /ˈnʌmpi/ (NUM-pee)) is a library for the Python programming language.
+
+Numpy usage adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+
+Numpy creator ancestor of NumPy, Numeric, was originally created by Jim Hugunin with contributions from several other developers, In 2005, Travis Oliphant created NumPy by incorporating features of the competing Numarray into Numeric, with extensive modifications, NumPy is open-source software and has many contributors.
+
+Numpy focus is a NumFOCUS fiscally sponsored project.
+
+We offer high end assistance for your data science needs. 
+
+We offer courses in Data science, Business Intelligence, Marketing Analytics and Website Analytics
+
+Data Science course's syllabus has basic python codes, data science related libraries introduction, Visualisation's in brief, Machine Learning model creation.
+
+In Business Intelligence course we offer an insight to creation of dashboards data handling through bigquery's.
+
+You will be instructed by a experinced data scientist with extracting,managing and moulding data to your needs.
+
+Market Analysis course will be taught in these lines, How to use surveys, interviews, focus groups, and customer observation to benefit the business.
+
+Market analysis is very important field for new businesses to gain a footing and old ones to grow.
